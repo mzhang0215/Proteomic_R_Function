@@ -1,0 +1,13 @@
+name: 100_plus_protein_viewer
+title: 100_plus_protein_viewer
+username:
+account: abc-age-3dplot
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2700093
+bundleId: 7385252
+url: https://abc-age-3dplot.shinyapps.io/100_plus_protein_viewer/
+when: 1687686109.43846
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: metadata.tsv|test/app.R
